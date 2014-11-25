@@ -13,6 +13,7 @@
     <div>add 1</div>
     <div>add 2</div>
     <div>rebase1</div>
+    <div>rebase2</div>
 <footer>ming footer</footer>
 
     </body>
