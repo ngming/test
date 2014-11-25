@@ -13,5 +13,9 @@
     <div>add 1</div>
     <div>add 2</div>
 
+<<<<<<< HEAD
+=======
+<footer>ming footer</footer>
+>>>>>>> ming
     </body>
     </html>
