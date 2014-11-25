@@ -12,5 +12,6 @@
     <div>add 1</div>
     <div>add 2</div>
 
+    <footer>ming2</footer>
     </body>
     </html>
