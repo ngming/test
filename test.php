@@ -6,7 +6,10 @@
 </head>
 <body>
 <header>ming</header>
+<<<<<<< HEAD
 
+=======
+>>>>>>> ming
 
     <div>testing</div>
     <div><li>lilili</li></div>
