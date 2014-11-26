@@ -1,11 +1,11 @@
 chapter 1
 
-pig
+dog2
 
 chapter 2
 
-wolf
+cat2
 
 chapter 3
 
-dog
+bird2
